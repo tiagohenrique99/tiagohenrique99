@@ -4,7 +4,6 @@
 🎓 cursando Analise e desenvolvimento de sistemas - Estacio de sá. <br>
 🌌 Sou um observador do Universo que está em eterno aprendizado. <br>
 🍀 Espero que possa contribuir com aqueles que estão iniciando e que, assim como eu, são apaixonados por Programação!
-![CCS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
 
 <!--
 **tiagohenrique99/tiagohenrique99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
