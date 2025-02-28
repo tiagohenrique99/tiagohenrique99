@@ -1,8 +1,8 @@
 # Bem vindo ao meu GitHub 👋 ⭐
 👽 Me chamo, tiago! <br>
-🔧 Front-end.
-🎓 cursando Analise e desenvolvimento de sistemas - Estacio de sá.
-🌌 Sou um observador do Universo que está em eterno aprendizado
+🔧 Front-end. <br>
+🎓 cursando Analise e desenvolvimento de sistemas - Estacio de sá. <br>
+🌌 Sou um observador do Universo que está em eterno aprendizado. <br>
 🍀 Espero que possa contribuir com aqueles que estão iniciando e que, assim como eu, são apaixonados por Programação!
 
 <!--
