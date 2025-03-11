@@ -5,11 +5,20 @@
 🌌 Sou um observador do Universo que está em eterno aprendizado. <br>
 🍀 Espero que possa contribuir com aqueles que estão iniciando e que, assim como eu, são apaixonados por Programação!
 
+----
+
 ### Minhas Tecnologias 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width=100px>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width=100px>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width= 100px>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width= 100px> 
+
+------
+
+### Cursos e certificados!
+
+![tiagohenrique99 GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagohenrique99&show_icons=true&theme=radical)
+
 <!--
 **tiagohenrique99/tiagohenrique99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
